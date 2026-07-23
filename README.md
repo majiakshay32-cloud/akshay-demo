@@ -2,4 +2,4 @@
 
 this is my first git repository.
 <br>
-auther -cd anindita
+auther -Akshay Maji
